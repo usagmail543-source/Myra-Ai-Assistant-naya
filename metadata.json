@@ -1,0 +1,6 @@
+{
+  "name": "Mayra AI",
+  "description": "Female-personality AI companion, Jarvis-style personal assistant, study tutor, coding assistant, and Android productivity ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
